@@ -1,6 +1,7 @@
 ﻿Emilio Angeles
 Final Assignment Pitch
 Micro-Mistake
+
 Final Product
 The player is a mad scientist who trapped himself in his backyard after accidentally injecting a shrink serum into himself.
 The objective of the game is to find the required items to build a device to reverse the effects back to normal before he shrinks into oblivion.
@@ -8,28 +9,23 @@ There will be 3-5 objects that the player must collect in different locations ar
 The map will have areas that you can only get to if you are small enough.
 There will also be an item that the player can collect to pause the shrinking effect for a short amount of time.
 
-
 Assignment 7 Deadline
 * Player character that is fully animated and shrinks over time
 * Drawn outline of the map and where items will be to win
-
 
 Assignment 8 Deadline
 * Menu with main game loop
    * Title Screen, Game Over, Game Win
 * Implementation of game level
 
-
 Assignment 9 Deadline
 * Adding a slider to show the players size and how much time they have
 * Create and add objects/power ups
 * Add particle effects to objects and power ups
 
-
 Stretch Goals
 * Add an enemy that, when the player is big enough, player destroys enemy, but when player is small enough, enemy destroys player. Probably will be a bug enemy.
 * Controller mapping to PS4 controller
-
 
 Assets
 Environment: https://assetstore.unity.com/packages/3d/environments/urban/low-poly-backyards-pack-69312
