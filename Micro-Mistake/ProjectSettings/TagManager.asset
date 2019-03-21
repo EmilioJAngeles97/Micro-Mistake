@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - AppleCollect
-  - AppleThrown
-  - Wall
+  - Camera
+  - Pool
+  - GameManager
+  - PowerUp
+  - MenuMusicPlayer
   layers:
   - Default
   - TransparentFX

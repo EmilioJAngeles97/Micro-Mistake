@@ -420,10 +420,25 @@ MonoBehaviour:
   speed: 5
   clockwise: 10
   counterClockwise: 10
-  playerHasKey: 0
-  key: {fileID: 0}
-  door: {fileID: 0}
-  keyParticles: {fileID: 0}
+  canMove: 0
+  pickupTime: 0
+  pickupTimer: 0
+  scaleAmount: 0
+  startSize: 0
+  endSize: 0
+  sizeLerp: 0
+  atGopherEntrance: 0
+  atGopherExit: 0
+  gopherHoleExitSpawn: {fileID: 0}
+  gopherHoleSpawn: {fileID: 0}
+  canEnter: {fileID: 0}
+  cannotEnter: {fileID: 0}
+  canExit: {fileID: 0}
+  poolCamera: {fileID: 0}
+  thirdPerson: {fileID: 0}
+  powerUpTimer: 0
+  powerUpTime: 0
+  powerUpTriggered: 0
 --- !u!95 &9152448511595748725
 Animator:
   serializedVersion: 3
@@ -434,7 +449,7 @@ Animator:
   m_GameObject: {fileID: 1503856157617204}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 269a9161b27ec9548b75a7eaee7f6042, type: 3}
-  m_Controller: {fileID: 9100000, guid: 4395cbfb7fbc0884eaa92b3dc00b9da9, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
